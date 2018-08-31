@@ -12,7 +12,7 @@ do
 done
 git reset --hard
 git pull
-git add autoscript.sh
+git add latest.zip
 git commit -m "[Defect]:Test"
 git push origin --all
 
